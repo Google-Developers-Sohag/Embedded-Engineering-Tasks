@@ -14,7 +14,7 @@
 
 - UML diagram: 
 
-![](https://github.com/Google-Developers-Sohag/Embedded-Engineering-Tasks/blob/master/Digital.svg)
+![](https://github.com/Google-Developers-Sohag/Embedded-Engineering-Tasks/blob/task-a/Task%20A/resources/uml/Digital.svg)
 
 - Learning outcomes: 
   1) Basic AVR programming (avrio).
