@@ -7,14 +7,14 @@
 - Structure to follow: 
   1) Create a header file `digital.h` and a source file `digital.c`.
   2) `digital.h` has the following: 
-      - uint8_t* digitalRead(uint8_t*).
-      - void digitalWrite(volatile uint8_t* port, const uint8_t* pin, int).
+      - uint8_t digitalRead(volatile uint8_t*, const uint8_t).
+      - void digitalWrite(volatile uint8_t* port, const uint8_t pin, const uint8_t).
   3) Create a `main.c` and add an implementation example (blink an LED, Ultrasonic implementation, Traffic Light design,...etc...choose your own).
   4) [Optional] Add an implementation for the external interrupt service subroutine of the available GPIOs.
 
 - UML diagram: 
 
-![](https://github.com/Google-Developers-Sohag/Embedded-Engineering-Tasks/blob/master/Digital.svg)
+![](https://github.com/Google-Developers-Sohag/Embedded-Engineering-Tasks/blob/task-a/Task%20A/resources/uml/Digital.svg)
 
 - Learning outcomes: 
   1) Basic AVR programming (avrio).
